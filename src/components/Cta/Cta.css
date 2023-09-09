@@ -1,0 +1,27 @@
+.cta {
+    background: #FAFAF9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4em 0;
+    gap: 2em;
+}
+
+.cta h2 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: center;
+}
+
+.cta a {
+    font-family: 'Inter';
+    font-size: 14.6px;
+    line-height: 17.67px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #8CA23B;
+    padding: 1em 2em;
+    border-radius: 5px;
+}
